@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeroagentov.github.io/snippets-bl2xa3/sitemap.xml
